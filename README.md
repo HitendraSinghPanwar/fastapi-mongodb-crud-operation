@@ -26,11 +26,11 @@ Create a .env file in the root folder:(Replace your_database_name with your actu
 
 # Run the Server
 - uvicorn main:app --reload
-Go to: http://127.0.0.1:8000
+- Go to: http://127.0.0.1:8000
 
 # Testing
 
--You can use curl, Postman, or Swagger UI for testing the APIs.
--Swagger UI available at:
-http://127.0.0.1:8000/docs
+- You can use curl, Postman, or Swagger UI for testing the APIs.
+- Swagger UI available at:
+- http://127.0.0.1:8000/docs
 
